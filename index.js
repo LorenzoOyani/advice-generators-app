@@ -1,8 +1,6 @@
 const adviceBtn = document.querySelector(".new__advice");
 const adviceId = document.getElementById("advice-id");
 const quoteGenerator = document.querySelector(".text__quote")
-const main = document.querySelector("main");
-const cssLoader = document.querySelector('.css__loader')
 
 adviceBtn.addEventListener("click", getQuotes);
 
