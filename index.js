@@ -2,6 +2,7 @@ const adviceBtn = document.querySelector(".new__advice");
 const adviceId = document.getElementById("advice-id");
 const quoteGenerator = document.querySelector(".text__quote")
 
+
 adviceBtn.addEventListener("click", getQuotes);
 
  
