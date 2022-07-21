@@ -137,31 +137,8 @@ figure img{
 
 
 
-    footer{
-       
-        position: relative;
-        height: auto;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 55px;
-        
-    }
-    .attribution{
-    font-size: 1em;
-    }
-
 
     @media (max-width: 768px){
-
-       .attribution{
-        font-size: .8em;
-       }
-        footer{
-            position: absolute;
-            bottom: 30px;
-            margin-bottom: 80px;
-        }
 
       
     .main__section{
